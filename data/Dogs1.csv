@@ -1,0 +1,49 @@
+Name,counts,Gender,Fate,imgsrc
+Dezik,2,Male,Died 1951-07-29,./images/pawMD.png
+Tsygan,1,Male,Survived,./images/pawMS.png
+Lisa,1,Female,Died 1951-07-29,./images/pawFD.png
+Chizhik,2,Male,Died 1951-08-28,./images/pawMD.png
+Mishka,2,Male,Died 1951-08-28,./images/pawMD.png
+Ryzhik,1,Male,Survived,./images/pawMS.png
+Smeliy,1,Male,Survived,./images/pawMS.png
+Neputeviy,1,Male,Survived,./images/pawMS.png
+ZIB,1,Male,Survived,./images/pawMS.png
+Lisa-2,3,Female,Died 1955-02-05,./images/pawFD.png
+Ryzhik-2,2,Male,Died 1954-07-07,./images/pawMD.png
+Damka,2,Female,Survived,./images/pawFS.png
+Mishka-2,1,Male,Died 1954-07-02,./images/pawMD.png
+Ryzhik-3,1,Male,Survived,./images/pawMS.png
+Rita,1,Female,Died 1955-01-25 or 1955-06-25,./images/pawFD.png
+Linda,2,Female,Survived,./images/pawFS.png
+Bulba,1,Female,Died 1955-02-05,./images/pawFD.png
+Knopka,2,Female,Died 1958-10-31,./images/pawFD.png
+Malyshka,2,Female,Survived,./images/pawFS.png
+Albina,3,Female,Survived,./images/pawFS.png
+Kozyavka,4,Female,Survived,./images/pawFS.png
+Damka-2,3,Female,Survived,./images/pawFS.png
+Dzhoyna,1,Female,Died 1957-05-24,./images/pawFD.png
+Ryzhaya,2,Female,Died 1957-05-24,./images/pawFD.png
+Belka,4,Female,Survived,./images/pawFS.png
+Modnitsa,2,Female,Survived,./images/pawFS.png
+Laika,1,Female,Died 1957-11-03,./images/pawFD.png
+Palma,1,Female,Died 1958-02-21,./images/pawFD.png
+Pushok,1,Male,Died 1958-02-21,./images/pawMD.png
+Kusachka,5,Female,Survived,./images/pawFS.png
+Palma-2,3,Female,Survived,./images/pawFS.png
+Belyanka,1,Female,Survived,./images/pawFS.png
+Pestraya,1,Female,Survived,./images/pawFS.png
+Zhulba,1,Female,Died 1958-10-31,./images/pawFD.png
+Snezhinka ,0,Female,Survived,./images/pawFS.png
+Malyok,2,Male,Survived,./images/pawMS.png
+Lisichka,1,Female,Died 1960-07-28,./images/pawFD.png
+Bars ,1,Female,Died 1960-07-28,./images/pawFD.png
+Strelka,1,Female,Survived,./images/pawFS.png
+Neva,1,Female,Survived,./images/pawFS.png
+Mushka,1,Female,Died 1960-12-01,./images/pawFD.png
+Pchyolka,1,Female,Died 1960-12-01,./images/pawFD.png
+Shutka,1,Female,Survived,./images/pawFS.png
+Chernuskha,1,Female,Survived,./images/pawFS.png
+Kometka,1,Female,Survived,./images/pawFS.png
+Zvezdochka,1,Female,Survived,./images/pawFS.png
+Ugolyok,0,Male,Survived,./images/pawMS.png
+Veterok ,0,Male,Survived,./images/pawMS.png

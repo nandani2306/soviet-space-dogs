@@ -1,0 +1,85 @@
+body
+{
+    background-color: #EBF7FE;
+    font-family: "Libre Baskerville";
+    color: #444;
+    font-size: 14px;
+    text-align: justify;
+}
+#mainTitle{
+    font-family: 'Black Ops One', cursive;
+    font-size: 45px;
+    color: white;
+}
+.img-fluid{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    overflow: hidden;
+    
+}
+.content {
+    width:100%;
+}
+.years {
+    position: absolute;
+    top: 0;
+    text-align: center;
+    
+  }
+
+.year {
+    font-size: 28px;
+  }
+
+.picture
+{
+    width:100px;
+    height:100px;
+    margin-left: 30px;
+}
+#tooltip-div {
+    position: absolute;
+    text-align: center;
+    padding: .5rem;
+    background: #FFFFFF;
+    color: #313639;
+    border: 1px solid #313639;
+    border-radius: 8px;
+    pointer-events: none;
+    font-size: 1rem;
+}
+.dogimage
+{
+    width:100px;
+    height:100px;
+}
+span{
+    display: inline-block;
+}
+.legend
+{
+    right:10px;
+    border-left:1px solid black;
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+    position: fixed;
+    width:240px;
+    height:450px;
+    text-align: left;
+    border-radius: 5px;
+}
+.legendImg
+{
+    width:30px;
+    height:30px;
+}
+text{
+    background-color: #EBF7FE;
+    font-family: "Libre Baskerville";
+    fill: #444;
+}
+.doglegend
+{
+    display: inline-block;
+}

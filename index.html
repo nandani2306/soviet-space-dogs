@@ -1,0 +1,76 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>CSE 578- Homework 5</title>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700' rel='stylesheet' type='text/css'>
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/starter-template/">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src='https://d3js.org/d3.v5.min.js'></script>
+    <script src='index.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.13.1/lodash.js'></script>
+    <!-- Custom styles for this template -->
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <nav class="navbar navbar-light" style="background-color: #273d85; width:100%;">
+        <a id="mainTitle" style="margin-left: 20px;">
+            <img src="./images/dog.png" class="img-fluid">
+        SPACE DOGS
+      </a>
+      </nav>
+      <div class='content'>
+        <div style="width:80%; height: 130px; margin:20px;">
+          <p><b>Welcome to the Space Dogs museum website!</b></p>
+          <span><p>During the 1950s and 1960s the Soviet space program used dogs for sub-orbital and orbital space flights to determine whether human spaceflight was feasible. In this period, the Soviet Union launched missions with passenger slots for at least 57 dogs. Most survived; the few that died were lost mostly through technical failures, according to the parameters of the test. <a href="https://en.wikipedia.org/wiki/Soviet_space_dogs">[Source]</a></p>
+          <p>This website shows the flights that carried dogs over the years and you can see which dogs went together. Click on any flight to know more!</p></span>
+        </div>
+        <div class ="years"></div>
+        <div class ="legend">
+          <span>
+            <p style="text-align: center; background-color: #b1b8d1;"><b>Legends</b></p>
+            <p>&nbsp;Types of rockets</p>
+            <span><img src="./images/R1.png"/ class="legendImg">R1 Rocket <img src="./images/R2.png"/ class="legendImg">R2 Rocket</span>
+            <br><br>
+            <span><img src="./images/R5.png"/ class="legendImg">R5 Rocket <img src="./images/R7.png"/ class="legendImg">R7 Rocket</span>
+            <br><br>
+            <span><img src="./images/unknown.png"/ class="legendImg">Type is not known
+          </span>
+          <hr>
+            <p style="text-align: center;">Dog Info</p>
+            <p>&nbsp;Spacesuit&emsp;&emsp;&emsp;&emsp;&emsp;Helmet</p>
+            <svg><circle cx="20" cy="15" r="10"  fill="#ec1c24" /><text x="35" y="20">Died</text>
+            <circle cx="20" cy="45" r="10"  fill="#0ed145" /><text x="35" y="50">Survived</text>
+            <circle cx="170" cy="15" r="10"  fill="#ffaec8" /><text x="185" y="20">Female</text>
+            <circle cx="170" cy="45" r="10"  fill="#10d8f9" /><text x="185" y="50">Male</text></svg>
+        </div>
+      </div>
+      <div id="myModal" class="modal fade" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header" style="background-color: #bec6e0;">
+                    <h5 class="modal-title">Dogs in this Rocket</h5>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body" style="background-color: #d3d7e4;">
+                    <span><p id="dog1"></p><img id="dogimage1" class="dogimage" src=""/></span>
+                    <span><p id="dog2"></p><img id="dogimage2" class="dogimage" src=""/></span>
+                    <p id="doginfo1"></p><p id="doginfo2"></p>
+                </div>
+                <div class="modal-footer" style="background-color: #bec6e0;">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+﻿year,date,dogs,rocket,altitude,result,imgsrc
+1951,7/22/1951,"Dezik,Tsygan",R-1V,100,recovered safely,./images/R1.png
+1951,7/29/1951,"Dezik,Lisa",R-1B,100,"parachute failed, both dogs died",./images/R1.png
+1951,8/15/1951,"Chizhik,Mishka",R-1B,100,recovered safely,./images/R1.png
+1951,8/19/1951,"Ryzhik,Smeliy",R-1V,100,recovered safely,./images/R1.png
+1951,8/28/1951,"Chizhik,Mishka",R-1B,100,"failed, both dogs died",./images/R1.png
+1951,9/3/1951,"Neputeviy,ZIB",R-1B,100,recovered safely,./images/R1.png
+1951,6/26/1951,"Lisa-2,Ryzhik-2",R-1D,100,recovered safely,./images/R1.png
+1954,7/2/1954,"Damka,Mishka-2",R-1D,100,"recovered safely, mishka-2 died",./images/R1.png
+1954,7/7/1954,"Damka,Ryzhik-2",R-1D,100,"recovered safely, ryshik-2 died",./images/R1.png
+1954,7/26/1954,"Lisa-2,Ryzhik-3",unknown,unknown,recovered safely,./images/unknown.png
+1955,1/25/1955,"Rita,Linda",R-1E,100,"recovered safely, rita died",./images/R1.png
+1955,2/5/1955,"Bulba,Lisa-2",R-1E,100,"recovery failed, both dogs died",./images/R1.png
+1955,11/4/1955,"Knopka,Malyshka",R-1E,100,recovered safely after 3 days,./images/R1.png
+1956,5/14/1956,"Albina,Kozyavka",R-1E,100,recovered safely,./images/R1.png
+1956,5/31/1956,"Linda,Malyshka",R-1E,100,recovered safely,./images/R1.png
+1956,6/7/1956,"Albina,Kozyavka",R-1E,100,recovered safely,./images/R1.png
+1956,6/14/1956,"Albina,Kozyavka",R-1E,100,recovered safely,./images/R1.png
+1957,5/16/1957,"Damka-2,Ryzhaya",R-2A,212,recovered safely,./images/R2.png
+1957,5/24/1957,"Dzhoyna,Ryzhaya",R-2A,212,"cabin decompression, both dogs died",./images/R2.png
+1957,8/25/1957,"Belka,Modnitsa",R-2A,212,recovered safely,./images/R2.png
+1957,8/31/1957,"Belka,Damka-2",R-2A,212,recovered safely,./images/R2.png
+1957,9/6/1957,"Belka,Modnitsa",R-2A,212,recovered safely,./images/R2.png
+1957,11/3/1957,Laika,"R-7, Sputnik 2",orbital,"no recovery system, died in space",./images/R7.png
+1958,2/21/1958,"Palma,Pushok",R-5A,451,"cabin decompression, both dogs died",./images/R5.png
+1958,8/2/1958,"Palma-2,Kusachka",R-2A,212,recovered safely,./images/R2.png
+1958,8/13/1958,"Palma-2,Kusachka",R-2A,212,recovered safely,./images/R2.png
+1958,8/27/1958,"Belyanka,Pestraya",R-5A,451,recovered safely,./images/R5.png
+1958,9/19/1958,"Damka-2,Kozyavka",unknown,unknown,recovered safely,./images/unknown.png
+1958,10/31/1958,"Knopka,Zhulba",R-5A,451,"parachute failed, both dogs died",./images/R5.png
+1959,7/2/1959,"Kusachka,Snezhinka",R-2A,212,recovered safely,./images/R2.png
+1959,7/10/1959,"Kusachka ,Snezhinka",R-2A,212,recovered safely,./images/R2.png
+1960,6/15/1960,"Kusachka,Malyok",R-2A,212,recovered safely,./images/R2.png
+1960,6/24/1960,"Kusachka ,Snezhinka",R-2A,212,recovered safely,./images/R2.png
+1960,7/28/1960,"Lisichka,Bars ","R-7, Vostok Prototype",was to be orbital,"exploded during launch, both dogs died",./images/R7.png
+1960,8/19/1960,"Belka,Strelka","R-7, Sputnik 5",orbital,"spent one day in orbit, recovered safely",./images/R7.png
+1960,9/16/1960,"Malyok,Palma-2",R-2A,212,recovered safely,./images/R2.png
+1960,9/22/1960,"Kusachka,Neva",unknown,unknown,recovered safely,./images/unknown.png
+1960,12/1/1960,"Mushka,Pchyolka","R-7, Sputnik 6",orbital,"spent one day in orbit, capsule was destroyed, both dogs died",./images/R7.png
+1960,12/22/1960,"Shutka,Kometka",R-7,was to be orbital,"upper stage failed, dogs recovered after a suborbital flight",./images/R7.png
+1961,3/9/1961,Chernuskha,"R-7, Sputnik 9",orbital,"one orbit, recovered safely",./images/R7.png
+1961,3/25/1961,Zvezdochka,"R-7, Sputnik 10",orbital,"one orbit, recovered safely",./images/R7.png
