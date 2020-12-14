@@ -44,7 +44,7 @@ function drawChart()
     for (let index = 0; index < allYears.length; index++) {
       var selected_year = allYears[index];
       var filterData= flight_data.filter(function (d) { return d.year===selected_year})
-      console.log("filter data",filterData)
+      //console.log("filter data",filterData)
       drawRocket(filterData)
     }  
 }
@@ -98,7 +98,7 @@ function drawDogData(filterData)
   
   var dogs = filterData.dogs.split(',')
   var filteredDogInfo=  dog_data.filter(function (d) { return d.Name=== dogs[0] || d.Name===dogs[1]})
-  console.log("dogs info",filteredDogInfo);
+  //console.log("dogs info",filteredDogInfo);
   $("#myModal").modal('show');
   $('#myModal').draggable();   
   d3.select("#dogimage1").attr("src",filteredDogInfo[0]['imgsrc']);
